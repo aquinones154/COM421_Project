@@ -4,7 +4,7 @@ body{
 }
 
 .top_level_nav{
-    background-color: crimson;
+    background-color: darkolivegreen;
     overflow: hidden;
 }
 
@@ -12,7 +12,13 @@ body{
   float: left;
   color: black;
   text-align: center;
-  padding: 5px 12px;
+  padding: 5px 35px;
   text-decoration: none;
   font-size: 17px;
 }
+
+.top_level_nav a:hover {
+    background-color: black;
+    color: olive;
+  }
+
