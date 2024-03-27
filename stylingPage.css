@@ -30,6 +30,11 @@
     margin-top:69px
   }
 
+  .sidebar_main {
+    margin-left: 160px; /* Same as the width of the sidebar */
+    padding: 0px 10px;
+  }
+  
 body {
     background-color: gainsboro;
     font-family: Verdana, sans-serif;
