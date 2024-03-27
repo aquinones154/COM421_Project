@@ -37,12 +37,7 @@
     z-index: 10px;
   }
 
-body {
+  body {
     background-color: gainsboro;
     font-family: Verdana, sans-serif;
-    line-height
-}
-
-h1 {
-   text-align:center;
 }
