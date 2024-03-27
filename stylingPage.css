@@ -34,17 +34,15 @@
     position: absolute;
     width: 150px;
     margin-left: -200px;
-    z-index: 0;
+    z-index: 10px;
   }
 
 body {
     background-color: gainsboro;
     font-family: Verdana, sans-serif;
+    line-height
 }
 
 h1 {
-   text-align: center; 
+   text-align:center;
 }
-
-
-
