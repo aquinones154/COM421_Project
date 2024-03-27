@@ -18,14 +18,14 @@
   }
 
 .sidebar {
-    height: 841%; /* Full-height: remove this if you want "auto" height */
-    width: 180px; /* Set the width of the sidebar */
-    position: absolute; /* Fixed Sidebar (stay in place on scroll) */
-    z-index: 0; /* Stay on top */
-    top: 0; /* Stay at the top */
+    height: 841%; 
+    width: 180px; 
+    position: absolute;
+    z-index: 0;
+    top: 0; 
     left: 10px;
-    background-color: darkolivegreen; /* Black */
-    overflow-x: hidden; /* Disable horizontal scroll */
+    background-color: darkolivegreen; 
+    overflow-x: hidden;
     padding-top: 0px;
     margin-top:69px
   }
@@ -45,4 +45,6 @@ body {
 h1 {
    text-align: center; 
 }
+
+
 
