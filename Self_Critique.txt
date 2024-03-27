@@ -1,0 +1,11 @@
+Self Critique for Project 1
+
+To start off, the project as a whole did come out to how I somewhat I wanted it to look like and function
+The entire top level navigation is fully functional, despite the fact that I did have a hard time implementing it along with the 
+css to style it to look good. In general the top level nav and sidebar gave me the most difficultly. For the sidebar itself,
+I didnt' manage to fix it complelty as in the data and research page, the sidebar does not end where the main body of the page ends. 
+I tried to change things in the css however, nothing seemed to work. Using a guide I found online on how to implement a sidebar
+I tried to replicate it to my own way, however I was still having trouble. Another area where improvement could have been made is the spacing throguhout the webiste.
+Initially I did try to to include <br> between paragraph and images, however that affected the sidebar and so I decided it was 
+best if I didn't include <br> to have more spacing. The above are the major issues I myself encountered while looking back on the project. 
+
