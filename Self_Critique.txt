@@ -9,3 +9,6 @@ I tried to replicate it to my own way, however I was still having trouble. Anoth
 Initially I did try to to include <br> between paragraph and images, however that affected the sidebar and so I decided it was 
 best if I didn't include <br> to have more spacing. The above are the major issues I myself encountered while looking back on the project. 
 
+If I had more time to work on the project, I would spend more time on learning more style elements to further enhance 
+this website such as creating spaces between the paragraphs and sections. Secondly would be to format the sidebards more so that they fit 
+properly in the page. Lastly, possibly learn more css to make the appearnce of the website more pleasing. 
